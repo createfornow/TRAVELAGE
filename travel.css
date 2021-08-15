@@ -843,6 +843,16 @@ header .searching label:hover {
     }
 
 }
+@media (max-width:560px) {
+    .footer .avail img{
+        height: 2rem;
+    }  
+    .book .row form{
+        box-shadow: 0 .5rem 1.5rem rgba(129, 59, 59, 0.5);
+       
+    } 
+}
+
 
 @media (max-width:500px) {
     .heading span{
